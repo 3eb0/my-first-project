@@ -1,0 +1,16 @@
+body{
+    max-width: 550px;
+    margin: auto;
+    font-family: SansSerif;
+
+}
+
+p{
+    line-height: 1.4rem;
+}
+
+article + article{
+    margin-top: 3.0rem;
+    padding-top: 25px;
+    border-top: 0.8px solid black ;
+}
